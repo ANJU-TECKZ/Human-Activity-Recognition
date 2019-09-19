@@ -1,9 +1,9 @@
 # Performance Evaluation of Various Machine Learning Techniques for Human Activity Recognition
-##Language
+## Language
 Python
-##Dataset
+## Dataset
 UCI-HAR 
-##Machine Learning Techniques Evaluated:<br>
+## Machine Learning Techniques Evaluated:<br>
 Naive Bayes classifier <br>
 Decision Tree classifier <br>
 Random forest classifier<br>
